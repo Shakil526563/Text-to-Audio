@@ -3,6 +3,8 @@
 A simple Streamlit web app that converts text to speech using the Hugging Face `kakao-enterprise/vits-ljs` model.
 
 ---
+![image](https://github.com/user-attachments/assets/b916f28e-5396-4bce-9608-319decd98681)
+
 
 ## 🚀 How to Run
 
