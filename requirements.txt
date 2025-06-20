@@ -1,0 +1,6 @@
+streamlit
+transformers
+soundfile
+timm
+inflect
+phonemizer
